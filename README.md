@@ -1,4 +1,4 @@
-# portfolio-postgres-dre-toolkit-10
+# 10-inspiren-senior-software-engineer-database
 
 A production-minded Database Reliability Engineering toolkit: HA lab, backup/PITR drills, and zero-downtime migration playbooks.
 
